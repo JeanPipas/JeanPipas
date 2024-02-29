@@ -9,7 +9,7 @@
 <br>
 
 - I'm a student of Computer Engineering at the [Universitat Oberta de Catalunya](https://www.uoc.edu/es/estudios/grados/grado-ingenieria-informatica).
-- I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- I’m currently open for a new `job opportunity`.
 - Enthusiastic about exploring the vast realm of technology.
 - Proficient in coding and problem-solving.
 - Playing CTF's at spare time. <picture> <img src="https://www.hackthebox.com/images/logo-htb.svg" width = 100px> </picture>
